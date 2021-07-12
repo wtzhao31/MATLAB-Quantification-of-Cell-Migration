@@ -1,4 +1,4 @@
-# MATLAB-Quantification-of-Cell-Migration
+# Rapid quantification analysis for cell migration from time series images
 This research project uses custom MATLAB scripting paired with ImageJ plugins to quantify migration characteristics of cell migration.
 
 Introduction
